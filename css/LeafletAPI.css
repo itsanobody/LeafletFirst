@@ -1,0 +1,9 @@
+/*地图主窗口样式*/
+#map{
+	margin-top: 50px;/*距离顶端50，一般上面时导航条，给导航条预留空间*/
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
